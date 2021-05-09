@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Luca14797's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca14797&show_icons=true&theme=cobalt&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Luca14797's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca14797&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Luca14797&color=brightgreen)
 
